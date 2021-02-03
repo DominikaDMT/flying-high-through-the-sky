@@ -13,6 +13,7 @@
 
 .flying-cloud {
     position: absolute;
+    width: 30%;
 }
 
 .flying-cloud:nth-child(1) {
@@ -42,11 +43,9 @@
     top: 30%;
 }
 
-
-
-
 .flying-balloon {
     position: absolute;
     top: 20%;
     right: 20%;
+    width: 30%;
 }
